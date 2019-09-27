@@ -1,0 +1,51 @@
+
+body,
+html
+{
+  width: 100%
+  heigth: 100%
+}
+
+body{
+  font-family: 'Satisfy', cursive;
+}
+hr{
+  max-width: 65px;
+  border-width: 3px;
+  border-color: pink;
+}
+.faded{
+  color: rgba(255,255,255,0.8);
+}
+header.startup{
+  background-position: center;
+  background-image: url("Flores.jpg")
+  background.size: cover;
+  heigth: 100%;
+}
+header.startup hr{
+  margin-top: 200px;
+  margin-button: 30px;
+}
+header.startup h1{
+  font-size: 2rem;
+}
+.btn{
+  font-weigth: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+  font-family: 'Satisfy', cursive;
+}
+.btn-xl{
+  padding: 1rem 2rem;
+}
+.btn-primary{
+  background-color: #F05F44;
+  border-color: #F05F44;
+}
+.btn-primary: hover{
+  background-color: #EE4B08;
+  border-color:
+  border-width: 5px;
+  cursor: pointer;
+}
